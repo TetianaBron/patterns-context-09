@@ -1,2 +1,5 @@
-# patterns-context-09
-Паттерны, контекст, авторизация
+# Todo
+
+- Higher-Order Components
+- Render Props
+- React Context API
